@@ -11,7 +11,7 @@ mvn package -Pnative
 ## Start the app and navigate to the travel request form:
 
 ```shell
-./target/travelapp
+./target/demo-0.0.1-SNAPSHOT-runner
 http://localhost:8080/request
 ```
 
